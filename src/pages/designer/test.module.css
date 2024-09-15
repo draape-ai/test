@@ -1,0 +1,49 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.svgImage {
+  width: 300px;
+  height: auto;
+}
+
+.selectionContainer {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 20px;
+}
+
+.mainContent {
+  margin-top: 30px;
+
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+
+  gap: 100px;
+}
+
+.measurementsContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+} 
+
+.fit_pattern_button {
+  margin-top: 30px;
+  background-color: white;
+  transition: all 0.1s ease-in-out;
+  border: 1px solid #2B2829;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 10px 5px;
+
+  &:hover{
+    background-color: grey;
+    color: white;
+  }
+}

@@ -1,0 +1,22 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 421 421">
+  <ns0:defs>
+    <ns0:style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </ns0:style>
+  </ns0:defs>
+  <ns0:rect class="cls-2" x=".5" y=".5" width="420" height="420" id="rect-0" />
+  <ns0:line class="cls-1" x1="210.68" y1=".5" x2="210.68" y2="420.5" id="line-0" />
+  <ns0:line class="cls-1" x1=".5" y1="284.03" x2="420.5" y2="284.03" id="line-1" />
+  <ns0:line class="cls-1" x1=".5" y1="132.26" x2="420.5" y2="132.26" id="line-2" />
+</ns0:svg>
